@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = y.dreisker@gmail.com
+	name = yaya dreisker
